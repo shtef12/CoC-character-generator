@@ -1,0 +1,26 @@
+Antiquarian- Appraise, Art, History, Library_Use, Language_Other, Spot_Hidden, 1 interpersonal skill, 1 any skill
+Artist- Art, History or Natural_World, Language_Other, Psychology, Spot_Hidden, 1 interpersonal skill, 2 any skill
+Athlete- Climb, Jump, Fighting_Brawl, Ride, Swim, Throw, 1 interpersonal skill, 1 any skill
+Author- Art, History, Library_Use, Listen, Language_Other, Psychology, 1 interpersonal skill, 1 any skill
+Clergy- Accounting, History, Library_Use, Listen- Language_Other, Psychology, 1 interpersonal skill, 1 any skill
+Dilettante- Art, Firearms_Handgun, Language_Other, Ride, 1 interpersonal skill, 3 any skill
+Doctor- First_Aid, Language_Other, Medicine, Psychology, Science, 2 any skill
+Drifter- Climb, Jump, Listen, Navigate, Stealth, 1 interpersonal skill, 2 any skill
+Engineer- Art, Electrial_Repair, Library_Use, Mechanical_Repair, Op_Heavy_Machine, Science, 1 any skill
+Entertainer- Art, Disguise, Listen, Psychology, 2 interpersonal skill, 2 any skill
+Farmer- Art, Drive_Auto, Mechanical_Repair, Natural_World, Op_Heavy_Machine, Track, 1 interpersonal skill, 1 any skill
+Journalist- Art, History, Library_Use, Language_Own, Psychology, 1 interpersonal skill, 2 any skill
+Lawyer- Accounting, Law, Library_Use, Psychology, 2 interpersonal skill, 2 any skill
+Librarian- Accounting, Library_Use, Language_Other, Language_Own, 4 any skill
+Military_Officer- Accounting, Firearms_Rifle, Navigate, Psychology, Survival, 2 interpersonal skill, 1 any skill
+Missionary- Art, First_Aid, Mechanical_Repair, Medicine, Natural_World, 1 interpersonal skill, 2 any skill
+Musician- Art, Listen, Psychology, 1 interpersonal skill, 4 any skill
+Parapsychologist- Anthropology, Art, History, Library_Use, Occult, Language_Other, Psychology, 1 any skill
+Pilot- Electrical_Repair, Mechanical_Repair, Navigate, Op_Heavy_Machine, Pilot, Science, 2 any skill
+Police_Detective- Disguise, Firearms_Handgun, Law, Listen, Psychology, Spot_Hidden, 1 interpersonal skill, 1 any skill
+Police_Officer- Fighting_Brawl, Firearms_Handgun, First_Aid, Law, Psychology, Spot_Hidden, Drive_Auto, 1 interpersonal skill
+Private_Investigator- Art, Disguise, Law, Library_Use, Psychology, Spot_Hidden, 1 interpersonal skill, 1 any skill
+Professor- Library_Use, Language_Other, Language_Own, Psychology, 4 any skill
+Soldier- Climb, Dodge, Fighting_Brawl, Firearms_Rifle, Stealth, Survival, First_Aid, Mechanical_Repair
+Tribe_Member- Climb, Fighting_Brawl, Natural_World, Listen, Occult, Spot_Hidden, Swim, Survival
+Zealot- History, Psychology, Stealth, 2 interpersonal skill, 3 any skill
