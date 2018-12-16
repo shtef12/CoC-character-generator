@@ -1,0 +1,26 @@
+Antiquarian: Appraise, Art, History, Library_Use, Language_Other, Spot_Hidden, interpersonal, any
+Artist: Art, History or Natural_World, Language_Other, Psychology, Spot_Hidden, interpersonal, any, any
+Athlete: Climb, Jump, Fighting_Brawl, Ride, Swim, Throw, interpersonal, any
+Author: Art, History, Library_Use, Listen, Language_Other, Psychology, interpersonal, any
+Clergy: Accounting, History, Library_Use, Listen- Language_Other, Psychology, interpersonal, any
+Dilettante: Art, Firearms_Handgun, Language_Other, Ride, interpersonal, any, any, any
+Doctor: First_Aid, Language_Other, Medicine, Psychology, Science, any, any
+Drifter: Climb, Jump, Listen, Navigate, Stealth, interpersonal, any, any
+Engineer: Art, Electrial_Repair, Library_Use, Mechanical_Repair, Op_Heavy_Machine, Science, any
+Entertainer: Art, Disguise, Listen, Psychology, interpersonal, interpersonal, any, any
+Farmer: Art, Drive_Auto, Mechanical_Repair, Natural_World, Op_Heavy_Machine, Track, interpersonal, any
+Journalist: Art, History, Library_Use, Language_Own, Psychology, interpersonal, any, any
+Lawyer: Accounting, Law, Library_Use, Psychology, interpersonal, interpersonal, any, any
+Librarian: Accounting, Library_Use, Language_Other, Language_Own, any, any, any, any
+Military Officer: Accounting, Firearms_Rifle, Navigate, Psychology, Survival, interpersonal, interpersonal, any
+Missionary: Art, First_Aid, Mechanical_Repair, Medicine, Natural_World, interpersonal, any, any
+Musician: Art, Listen, Psychology, interpersonal, any, any, any, any
+Parapsychologist: Anthropology, Art, History, Library_Use, Occult, Language_Other, Psychology, any
+Pilot: Electrical_Repair, Mechanical_Repair, Navigate, Op_Heavy_Machine, Pilot, Science, any, any
+Police Detective: Disguise, Firearms_Handgun, Law, Listen, Psychology, Spot_Hidden, interpersonal, any
+Police Officer: Fighting_Brawl, Firearms_Handgun, First_Aid, Law, Psychology, Spot_Hidden, Drive_Auto, interpersonal
+Private Investigator: Art, Disguise, Law, Library_Use, Psychology, Spot_Hidden, interpersonal, any
+Professor: Library_Use, Language_Other, Language_Own, Psychology, any, any, any, any
+Soldier: Climb, Dodge, Fighting_Brawl, Firearms_Rifle, Stealth, Survival, First_Aid, Mechanical_Repair
+Tribe Member: Climb, Fighting_Brawl, Natural_World, Listen, Occult, Spot_Hidden, Swim, Survival
+Zealot: History, Psychology, Stealth, interpersonal, interpersonal, any, any, any
